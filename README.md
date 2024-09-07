@@ -1,6 +1,6 @@
-# AI NewsBot 📰
+# AI News Summarizer📰
 
-**AI-NewsBot-with-LangChain-Streamlit-Llama3.1** is an AI-powered application that fetches, summarizes, and categorizes news articles using LangChain, Streamlit, and Llama3.1.
+**AI-News-Summarizer-with-LangChain-Llama3.1** is an AI-powered application that fetches, summarizes, and categorizes news articles using LangChain, Streamlit, and Llama3.1.
 
 ## Features ✨
 
@@ -18,7 +18,7 @@
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/farukh-javed/AI-NewsBot-with-LangChain-Streamlit-Llama3.1.git
+   git clone https://github.com/farukh-javed/AI-News-Summarizer-with-LangChain-Llama3.1.1.git
    ```
 2. Install the dependencies:
    ```bash
