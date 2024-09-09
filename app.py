@@ -46,8 +46,8 @@ if st.button("Get news and Summarize it"):
             output = overall_simple_chain(content)
             st.markdown(f"## {title}")
             st.markdown(f"**Source:** {source_name}")
-            # st.markdown(f"**Summary:** {output['choices'][0]['message']['content']}")
             st.markdown(f"**Content:** {output['summary_text']}")
+            # st.markdown(f"**Summary:** {output['choices'][0]['message']['content']}")
             st.markdown(f"**Category:** {output['Category']}")
     else:
         st.write("No articles found for the given topic.")
